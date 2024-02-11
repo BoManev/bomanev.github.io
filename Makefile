@@ -1,2 +1,2 @@
-run:
+dev:
 	python -m http.server
